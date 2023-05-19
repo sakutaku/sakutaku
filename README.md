@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sakutaku
-- 👀 I’m interested in coding, dancing, peacebuilding
-- 🌱 I’m currently learning JS,html,css
+- 👀 I’m interested in coding, dancing and peacebuilding
+- 🌱 I’m currently learning JavaScript, TypeScript and React
 - 💞️ I’m looking to collaborate on different kind of the projects
 - 📫 How to reach? Telegram @sakulyaa
 
