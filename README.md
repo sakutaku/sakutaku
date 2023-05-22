@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sakutaku
-- 👀 I’m interested in coding, dancing and peacebuilding
+- 👋 Hi, my name is Saikal, but you can call Saya!
+- 👀 I’m interested in coding, dancing and peacebuilding.
 - 🌱 I’m currently learning JavaScript, TypeScript and React
-- 💞️ I’m looking to collaborate on different kind of the projects
+- 💞️ I’m looking to collaborate on different kind of the projects, internships, etc
 - 📫 How to reach? Telegram @sakulyaa
 
 <!---
