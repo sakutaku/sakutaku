@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Saikal, but you can call me Saya :)
 - 👀 I’m interested in coding, dancing and peacebuilding.
-- 🌱 I’m currently learning JavaScript, TypeScript and React in Attractor Software School
+- 🌱 I’m a Junior Frontend Developer
 - 💞️ I’m looking to collaborate on different kind of the projects, internships, etc
 - 📫 How to reach me? Telegram @sakulyaa
 
