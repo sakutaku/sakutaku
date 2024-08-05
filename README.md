@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saikal</h1>
 <h3 align="center">A dedicated full stack developer from Kyrgyzstan, with expertise in building scalable and efficient web applications. Skilled in utilizing the latest technologies to deliver high-quality software solutions.</h3>
-<img align="center" alt="coding" width="400" src="https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg?w=1060"/>
+<img align="center" alt="coding" width="100" height="100" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/coder-woman-3953093-3272413.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakutaku&label=Profile%20views&color=0e75b6&style=flat" alt="sakutaku" /> </p>
 
