@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Telegram bots projects**
 
-- 🌱 I’m currently learning **Python, Unreal Engine**
+- 🌱 I’m currently learning **Python, Unreal Engine, PHP**
 
 - 💬 Ask me about **React, Vue**
 
