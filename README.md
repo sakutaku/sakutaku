@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **saikalabytova1@gmail.com**
 
-- ⚡ Fun fact **I like belly dancing**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/saikal-abytova-a34966230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/saikal-abytova-a34966230" height="30" width="40" /></a>
