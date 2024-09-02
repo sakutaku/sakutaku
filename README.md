@@ -1,7 +1,6 @@
 <div style="backgroundColor: #D5B1D5; padding: 10px;">
 <h1 align="center">Hi 👋, I'm Saikal</h1>
 <h3 align="center">A dedicated full stack developer from Kyrgyzstan, with expertise in building scalable and efficient web applications. Skilled in utilizing the latest technologies to deliver high-quality software solutions.</h3>
-<img align="right" alt="coding" width="100" height="100" src="https://camo.githubusercontent.com/800e1ce79aaa78d4e4d5eb324dfb2a8bb0164a42c6a2f6e636692bcc3f9480d4/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakutaku&label=Profile%20views&color=0e75b6&style=flat" alt="sakutaku" /> </p>
 
