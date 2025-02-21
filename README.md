@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Kyrgyz Governmental Projects**
 
-- 🌱 Learning **Python, Unreal Engine, PHP**
+- 🌱 Learning **Python, Golang, PHP**
 
 - 💬 Ask me about **React, Vue**
 
